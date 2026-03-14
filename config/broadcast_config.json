@@ -1,0 +1,11 @@
+{
+    "mode": "fixed",
+    "fixed_message": "",
+    "random_prefix_enabled": false,
+    "random_prefix_file": "",
+    "random_suffix_enabled": false,
+    "random_suffix_file": "",
+    "auto_edit_enabled": false,
+    "auto_edit_delay": 5,
+    "auto_edit_file": ""
+}

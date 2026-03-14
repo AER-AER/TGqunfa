@@ -1,0 +1,10 @@
+{
+    "api_id": "你的API_ID",
+    "api_hash": "你的API_HASH",
+    "proxy_enabled": "false",
+    "proxy_type": "socks5",
+    "proxy_addr": "127.0.0.1",
+    "proxy_port": "1080",
+    "proxy_username": "",
+    "proxy_password": ""
+}
